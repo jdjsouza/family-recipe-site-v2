@@ -1,6 +1,10 @@
-# Family Recipe Site Project
+# Family Recipe Site v2 Project
 
 This version uses React, Redux, Express, Passport, and PostgreSQL (a full list of dependencies can be found in `package.json`).
+
+V2 will revamp the DB to allow for groups to allow other people to use the site to store their family recipes.
+The first iteration of this site had some major bugs and needs some additional styling to make it look better
+while retaining the reactive quality so it still looks good and functions well on a mobile device.
 
 ## Prerequisites
 
