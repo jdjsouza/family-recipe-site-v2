@@ -1,0 +1,27 @@
+.nav-btm {
+  background-color: #dddddd;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.btm-nav-link {
+  float: left;
+  color: #171616;
+  background-color: #dddddd;
+  padding: 24px 4px;
+  text-decoration: none;
+  font-size: 15px;
+
+  /* these last two make the logout button in
+  the nav bar look like another link */
+  border: none;
+  cursor: pointer;
+  outline: 0;
+}
+
+.btm-nav-link:hover {
+  background-color: #cacaca;
+}
